@@ -27,5 +27,5 @@ Input ALarge Number
 Gasse a Number:43
 #
 Great!!!
-#
+
 Congratulation!!!
